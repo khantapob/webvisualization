@@ -1,0 +1,43 @@
+.navbar-brand {   
+    font-size: 30px;
+    padding-left: 25px;
+    padding-right: 50px;
+    font-style: normal;
+    color: white;
+  }
+
+.container-fluid{
+  background: rgb(0, 77, 153);
+  color: white; 
+}
+
+.dropdown-toggle{
+  color: white;
+} 
+
+.menu1{
+  color: white;
+}
+
+.sub-heading {
+  padding-left: 150px;
+}
+
+.panel.panel-default{
+  position: relative;
+}
+
+.container {
+  display: block;
+  background-color: white;
+}
+
+.heading{
+  font-size: 30px;
+  color:  rgb(0, 77, 153);
+}
+
+.compare{
+  /* padding-left: 25px; */
+  padding-right: 100px;
+}
